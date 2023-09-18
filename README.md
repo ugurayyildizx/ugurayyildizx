@@ -30,6 +30,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ugurayyildizx&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=ugurayyildizx.ugurayyildizx)
 
 <picture>
   <source
@@ -46,5 +47,3 @@
   />
 </picture>
 <br />
----
-[![](https://visitor-badge.laobi.icu/badge?page_id=ugurayyildizx.ugurayyildizx)]
