@@ -20,7 +20,7 @@
 ---
 [![](https://visitor-badge.laobi.icu/badge?page_id=ugurayyildizx.ugurayyildizx)](#)
 
-
+![snake gif](https://github.com/ugurayyildizx/ugurayyildizx/blob/output/github-contribution-grid-snake.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
