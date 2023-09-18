@@ -30,7 +30,7 @@
 
 ### 🔝 Top Contributed Repo
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LuNiZz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ugurayyildizx&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <picture>
