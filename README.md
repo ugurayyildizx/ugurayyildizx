@@ -1,7 +1,7 @@
 ![Header](./g2.png)
 
 
-## 👋 Uğur Ayyıldız 
+## 👋 Hello I am Uğur Ayyıldız 
 
 #### ✅ Linkler:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ugurayyildizx)
