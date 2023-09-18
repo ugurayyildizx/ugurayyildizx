@@ -29,7 +29,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ugurayyildizx&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ugurayyildizx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ugurayyildizx)
 
 ---
 [![](https://visitor-badge.laobi.icu/badge?page_id=ugurayyildizx.ugurayyildizx)](#)
