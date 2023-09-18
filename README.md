@@ -1,4 +1,4 @@
-![Header](./g2.png)
+[![Header](./g2.png)
 
 
 ## 👋 Uğur Ayyıldız 
@@ -43,3 +43,4 @@
 
 
 <br />
+](https://www.linkedin.com/in/u%C4%9Fur-ayy%C4%B1ld%C4%B1z-758616291/)https://www.linkedin.com/in/u%C4%9Fur-ayy%C4%B1ld%C4%B1z-758616291/
