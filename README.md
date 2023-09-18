@@ -1,4 +1,4 @@
-![Header](./g1.png)
+![Header](./g2.png)
 
 
 ## 👋 Uğur Ayyıldız 
