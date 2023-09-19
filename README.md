@@ -1,5 +1,6 @@
 ![Header](./g2.png)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=ugurayyildizx.ugurayyildizx)
 
 ## 👋 Hello I am Uğur Ayyıldız 
 
